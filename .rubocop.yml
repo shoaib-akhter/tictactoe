@@ -1,0 +1,6 @@
+AllCops:
+  TargetRubyVersion: 3.3
+Metrics/MethodLength:
+  Max: 15
+Style/StringLiterals:
+  EnforcedStyle: double_quotes
